@@ -10,11 +10,13 @@
         }
     ],
     "require": {
-		"php": ">=7.0.0"
+        "php": ">=7.0.0"
     },
-    "autoload" : {
-	   "psr-4": {
-	    "Ataur\\Binarray\\": "src/"
-       }
-    }
+    "autoload": {
+        "psr-4": {
+            "Ataur\\Binarray\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
