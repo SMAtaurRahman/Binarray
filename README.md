@@ -94,7 +94,7 @@ $value = $binarray[0];
 /**
  * To remove a value
  */
-unset($binary[0]);
+unset($binarray[0]);
 
 /**
  * To count total elements
